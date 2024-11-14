@@ -19,7 +19,7 @@ let cantidadArticulosSinExistencia = (Array, departamento) => {
     let nombre = 0;
     for (let i = 0; i < Array.length; i++) {
         if (Array[i].departamento == departamento && Array) {
-            nombres.push(Array[i].nombre);
+            nombre.push(Array[i].nombre);
         }
 
     }
