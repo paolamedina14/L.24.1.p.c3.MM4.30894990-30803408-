@@ -23,7 +23,7 @@ let cantidadArticulosSinExistencia = (Array, departamento) => {
         }
 
     }
-    return nombres;
+    return nombre;
     
 };
 
